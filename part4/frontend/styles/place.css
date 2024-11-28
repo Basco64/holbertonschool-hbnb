@@ -1,0 +1,17 @@
+.place-details {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.place-info {
+  margin-bottom: 20px;
+}
+.place-info h2 {
+  margin-bottom: 8px;
+}
+.place-info p {
+  margin: 4px 0;
+}
